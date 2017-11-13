@@ -1,37 +1,11 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Me
+tags: [about]
+date: 2017-11-14
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+Parth is passionate about problem solving. He has been coding for 10 years choosing suitable languages. He has developed a good understanding of data structures & algorithms. He is always curious about easier & more efficient ways so he keeps trying out new technologies by implementing their proofs of concept. He has an ability to quickly grasp the subject matter and correlate it with his previous findings. For more streamlined learning, he has successfully completed 19 MOOCs on Coursera. He also has an eye for good design.
 
-## Preview
-
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+He is really fond of open source anything and as Google Summer of Code student twice, in 2014 and 2015, he feels at home in open source communities. He has been using & contributing to various open source, esp. free & libre, projects. He loves to attend interesting tech meetups & conferences.

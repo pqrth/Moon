@@ -1,14 +1,15 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              Parth P Panchal
+bio:                'Passionate software engineer, building machine learning platform at Adobe'
+description:        "Passionate software engineer, building machine learning platform at Adobe"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
+logo:               'assets/img/profilepic.jpg'
+#background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://taylantatli.github.io/Moon
+#url:                http://parthpanch.al
+navigation:         false
 
 # Jekyll
 permalink:          /:title/
@@ -20,37 +21,37 @@ kramdown:
   entity_output:    as_char
   toc_levels:       1..6
   enable_coderay:   false
-mathjax:            true
+mathjax:            false
 sass:
   sass_dir:         _sass
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   pqrth
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
+google:
   #plus:            #username
-  #analytics:
-  #verify:
+  analytics:       UA-109590877-1
+  verify:          tHE57vQ-1XFiGFACZ6SVF1cp6idvK7bJFbPPEtkfocY
   #ad-client:
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github-url:         username
-#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+twitter:            pqrth
+#facebook:           username
+github-url:         pqrth
+stackoverflow:     3381334/prth
+linkedin:          parthpanchl
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
@@ -58,7 +59,7 @@ steam:              username
 #weibo:             username
 #flickr:            username
 #codepen:           username
-#keybase:           username
+keybase:           parth
 #xmpp:              username@server.com
 #hackernews:        username
 

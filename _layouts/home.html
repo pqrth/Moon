@@ -10,13 +10,16 @@ layout: compress
     {% include head.html %}
 </head>
 <body>
+    {% if site.navigation == true %}
+    <!-- Navigation -->
     {% include nav.html %}
+    {% endif %}
     <!-- Header -->
     <header class="header flex" role="banner">
         <div class="container animated fadeIn">
             <div class="row">
                     <a href="{{ site.url }}">
-                        <img src="{{ site.logo }}" class="img-circle zoombtn animated rotateIn">
+                        <img src="{{ site.logo }}" class="img-circle zoombtn">
                     </a>
                     <h3 class="title">
                         <a class="zoombtn" href="{{ site.url }}">
@@ -35,11 +38,9 @@ layout: compress
                          <a class="btn zoombtn" href="{{ site.url }}/about">
                          About
                          </a>
-                         <a class="btn zoombtn" href="{{ site.url }}/posts">
-                         Posts
-                         </a>
-                         <a class="btn zoombtn" href="{{ site.url }}/projects">
-                         Projects
+                         <a class="btn zoombtn" href="https://pqrth.wordpress.com/"
+                         target="_blank" rel="noopener noreferrer">
+                         Blog
                          </a>
                  </h3>
             </div>
