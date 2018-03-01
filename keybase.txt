@@ -1,0 +1,66 @@
+==================================================================
+https://keybase.io/parth
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://parthpanch.al
+  * I am parth (https://keybase.io/parth) on keybase.
+  * I have a public key with fingerprint 88D7 A746 140F F055 45B2  A8BD 92B1 BE16 54E7 1C30
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01010077a973ef612d9849e8ce079648d0cb1336c19f6585875ac45d2f556b48ee0d0a",
+      "fingerprint": "88d7a746140ff05545b2a8bd92b1be1654e71c30",
+      "host": "keybase.io",
+      "key_id": "92b1be1654e71c30",
+      "kid": "01010077a973ef612d9849e8ce079648d0cb1336c19f6585875ac45d2f556b48ee0d0a",
+      "uid": "3037de29798f46fc407354758a0a5619",
+      "username": "parth"
+    },
+    "service": {
+      "hostname": "parthpanch.al",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1519894201,
+  "expire_in": 157680000,
+  "prev": "8fb21da9e1d3edd6ca477836c8aafabf898954e9c6c853f2b62e0a136b5d3dfd",
+  "seqno": 35,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUltIVEEYXi2TFsuCsqQLeAqyEpk558y5bA+FVEJXHywzym3mzJzdg9vZdfdo
+WViBhQmlUluKRQiRRkahVBLiokUh5UMZUYQ9FGUFXQQDu2JzpKCHHpt5GOb7v++b
+fz7+hmmTPN6kEx2JjMI380HS/XfEs70xMbRfIGFaKfj2C6Vs4mAhymKOv9Sigk8A
+kG+gqlhXJWYqUKS6JutMMxhQdUXWKDAIlCTFgLqpIA1pKsKGjKhoIqQQWWMMUICF
+HMG07ACLRqKW7XBbTaMqVmUFysA0AUIyIiLWCNVFAgmDCpKZCg0JcGEwHHMVvDmC
+YyzXCnOMX/wT7f2D/5/7Lp+wk4CkUibqqq6ZsmIaMlAlJKtIwwAjBeouMcaiNt7N
+ODuCo05QqMoROFRhGcxN1f3G3+UIto1gLg5xZSQadsJGOMRLQceJ+FylUxlxqXsY
+8f828RPLpjxELqhg0ZgVtgUf5EzDsVxXiKCu6bIIYI7A9kasKPNbLgOpigb4cp9h
+FW70JhEhxTqDW6nEKFUMLKuqxqPQMDYxMTXuw/PUDY4gyRSJIjKAoaQQRCVqUsH9
+V5kdFnwS4o3iADeNWQEbO+VRJlR5a5OkyZ4kr2dBRtbko0/a1s5KH9mypvNiz5/J
+S0l2x87jnTrjD/LhS+p4vlmU3h7yBXviVnJabd+3pv6b7avWpnZmHl+Ha9iB4pId
+jVe7z+O7A9NTr61o6G1pXijciR9dveheXsrp8iECE8/nhWoWpve/BA31VUX+7Auv
+628+bs16lZJR19T2fd2pgbGMuqwNU8ZWjnTbe63Dg3UHC5DQle/zvTjVRJrrb6/v
+n1MjyUuaW/rSK6u3bdxQl/9p++eyzctuzJpy6FhaR8HiS42jI8v9BxryhhdtKRgf
+ffe2cubDa2dGjiTPfds1e0gSTz4dfrbz/eKlKx606l/3bYaryfXTHwPfinqrU/tT
+4mdn7Gk7kZj/o3iX9/z0QqfkVvajTZmXzxXUFl6xB3/G4z2/AA==
+=72pm
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/parth
+
+==================================================================
