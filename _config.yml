@@ -1,7 +1,7 @@
 # Site
 title:              Parth P Panchal
-bio:                'Passionate software engineer, building machine learning platform at Adobe'
-description:        "Passionate software engineer, building machine learning platform at Adobe"
+# bio:                ''
+# description:        ""
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/profilepic.jpg'
